@@ -12,7 +12,7 @@ import { BodyComponent } from './MyComponents/body/body.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule 
   ],
   providers: [],
   bootstrap: [AppComponent]
